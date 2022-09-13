@@ -145,7 +145,7 @@
  background-position: center center;
 }
 
-#flat .line-break-first {
+#flat .line-break-second {
  background: linear-gradient(60deg, #f5cf22, #2e2d59, #346011);
  width: 100%;
  margin: 0 auto;
@@ -166,7 +166,7 @@
  background-position: center center;
 }
 
-#flat .line-break-first {
+#flat .line-break-third {
  background: linear-gradient(60deg, #2e2d59, #346011, #f5cf22);
  width: 100%;
  margin: 0 auto;
